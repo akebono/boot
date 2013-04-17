@@ -1,1 +1,2 @@
 boot. displays APIC ID (8bit).
+file2-5 displays GPIOBASE (and GC register content - will be done)
