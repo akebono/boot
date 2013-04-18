@@ -1,2 +1,2 @@
 boot. displays APIC ID (8bit).
-file2-5 displays GPIOBASE (and GC register content - will be done)
+file2-5 displays GPIOBASE and GC registers' content for intel's ich7 ich9, pch7, pch6. If GC.EN==1, then outputs GPIO_USE_SEL also.
