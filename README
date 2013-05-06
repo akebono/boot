@@ -1,2 +1,3 @@
 boot. displays APIC ID (8bit).
-file2-5 displays GPIOBASE and GC registers' content for intel's ich7 ich9, pch7, pch6. If GC.EN==1, then outputs GPIO_USE_SEL also.
+file2-5 - displays GPIOBASE and GC registers' content for intel's ich7 ich9, pch7, pch6. If GC.EN==1, then outputs GPIO_USE_SEL also.
+pciconfig - displays PCI confguration space contents for particular device (now just dumb device 0 function 0, which is CPU usually)
